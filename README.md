@@ -15,9 +15,6 @@
     <td valign="top"><img width="400" alt="Окно параметров - основные настройки" src="https://github.com/user-attachments/assets/1bfa3f62-5358-4cac-8c60-9a7454da4ee6" /></td>
     <td valign="top"><img width="400" alt="Окно параметров - дополнительные опции" src="https://github.com/user-attachments/assets/505d0f75-b14c-4460-8b91-870eb0a9b0e0" /></td>
   </tr>
-  <tr>
-    <td colspan="2" align="center"></td>
-  </tr>
 </table>
 
 <p align="center">Мне лень писать здесь что-то ещё, этот текст всё равно увидят максимум полтора землекопа. Но если вдруг кто-то всё-таки решит это устанавливать, просто создайте новый файл в Tampermonkey, и вставьте туда код.</p>
