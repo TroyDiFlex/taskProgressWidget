@@ -5,9 +5,9 @@
 Внешний вид и режимы
 Свёрнутое состояние (компактный вид)
 <p align="center"> <img width="800" alt="Свёрнутое состояние виджета" src="https://github.com/user-attachments/assets/8eaf4ef1-d0ba-43cd-b33a-c36010444272" /> </p>
-Альтернативный вид (расширенная статистика)
+Альтернативный вид
 <p align="center"> <img width="300" alt="Альтернативный вид виджета" src="https://github.com/user-attachments/assets/b1d18099-d27f-4dea-ad05-984f0d1bd76f" /> </p>
 Настройка параметров
-<table> <tr> <td valign="top"><img width="400" alt="Окно параметров - основные настройки" src="https://github.com/user-attachments/assets/1bfa3f62-5358-4cac-8c60-9a7454da4ee6" /></td> <td valign="top"><img width="400" alt="Окно параметров - дополнительные опции" src="https://github.com/user-attachments/assets/505d0f75-b14c-4460-8b91-870eb0a9b0e0" /></td> </tr> <tr> <td colspan="2" align="center">В настройках можно указать общее количество задач, временной интервал работы, желаемую скорость и другие параметры</td> </tr> </table>
+<table> <tr> <td valign="top"><img width="400" alt="Окно параметров - основные настройки" src="https://github.com/user-attachments/assets/1bfa3f62-5358-4cac-8c60-9a7454da4ee6" /></td> <td valign="top"><img width="400" alt="Окно параметров - дополнительные опции" src="https://github.com/user-attachments/assets/505d0f75-b14c-4460-8b91-870eb0a9b0e0" /></td> </tr> <tr> <td colspan="2" align="center"></td> </tr> </table>
 
 Мне лень писать здесь что-то ещё, этот текст всё равно увидят максимум полтора землекопа. Но если вдруг кто-то всё-таки решит это устанавливать, прост создайте новый файл в Tampermonkey, и вставьте туда код.
